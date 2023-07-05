@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Banner Image](https://github.com/gkhan205/gkhan205/blob/master/image/Banner.png)
+![Banner Image](https://github.com/jaguro/jaguro/issues/1#issue-1789606811)
+
 
 ## Hi there 👋
 
