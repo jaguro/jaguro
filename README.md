@@ -1,38 +1,22 @@
-### Hi there 👋
+
 ![Banner Image](https://github.com/jaguro/jaguro/blob/main/Negro%20Blanco%20Foto%20Luna%20Blog%20Banner.png)
+¡ HI EVERYONE AND WELCOME TO MY HOUSE !<br>
 
+I introduce myself, my name is Jose Aguilar QA Enginner automation, <br>
+specialized in software testing, collaborating with development teams to identify and solve quality problems. Skills in test cases, functional testing, regression and automation. Focus on delivering high quality products and process improvement. Analytical mindset and problem solving. Proactive attitude, work ethic and teamwork skills. Open to new opportunities and collaborations.
 
+[¡ LOOK AT MY BLOG !](https://codewithghazi.com/blog)
 
-## Hi there 👋
-
-I am **Ghazi Khan** working as **Tech Lead @ HCL Technologies**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Angular, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’s, PSD to WordPress, PSD to HTML, User Experience, PHP, and WordPress.** Strong engineering professional with a Bachelor of Computer Application focused in UI UX Developer / Front End Developer / Web Designer from Sikkim Manipal University – Distance Education.
-
-**[Blog](https://codewithghazi.com/blog) - [YouTube](https://www.youtube.com/channel/UCio7gIFilw6wsgbTZAVOBrg)**
-
-Author of NPM Package: [Formify React](https://www.npmjs.com/package/formify-react)
-
----
-
-- 🔭 I’m currently working as **Technical Lead @ HCL Technologies**
-- 🌱 I’m currently learning **Python - Blockchain**
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
-- 💬 Ask me about **Web Development**
+- 🔭 I am currently working as a QA Enginner automation **@ Tyris Software S.L**
+- 🌱 Some of the tools I work with **PYTHON - JAVASCRIPT**
+- 👯 I love working in a team
+- 🤔 Technologies or skills most used in my day to day :<br>
+      - CYPRESS <br>
+      - POSTMAN <br>
+      - SELENIUM <br>
+      - JMETER <br>
+      - TESTRAIL <br>
+- 💬 **Software Testing**
 - 📫 How to reach me:
-  [Twitter](https://twitter.com/codewithghazi), [Instagram](https://instagram.com/codewithghazi)
+  [SEE MY LINKEDIN](https://www.linkedin.com/in/jose-aguilar-ba3458230/)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true)
-<!--
-**jaguro/jaguro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
