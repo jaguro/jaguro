@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Banner Image](https://github.com/jaguro/jaguro/issues/1#issue-1789606811)
+![Banner Image](https://github.com/jaguro/jaguro/blob/main/Negro%20Blanco%20Foto%20Luna%20Blog%20Banner.png)
+
 
 
 ## Hi there 👋
