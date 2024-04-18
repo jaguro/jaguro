@@ -1,5 +1,6 @@
 
-<h1>Hi there! <img src="img_logo_github_repositori.png"></h1>
+<h1>Hi there! <img src="1f44b.gif"></h1>
+<img src="img_logo_github_repositori.png">
 Welcome to my GitHub profile!
 
 I'm Jose Aguilar, a passionate QA Engineer with expertise in automation and a software developer. I specialize in software testing and collaborate closely with development teams to ensure high-quality products. My day-to-day work involves crafting test cases, functional testing, regression testing, and automation. I am committed to delivering high-quality software and continuously improving processes.
