@@ -1,25 +1,19 @@
 
-![Banner Image](img_logo_github_repositori.png)
-¡ HI EVERYONE AND WELCOME TO MY HOUSE !<br>
+Hi there! 👋
+Welcome to my GitHub profile!
 
-I introduce myself, my name is Jose Aguilar. I am a **QA Engineer** with expertise in automation, as well as a **software developer**. 
-Specializing in software testing, I collaborate with development teams to identify and resolve quality issues. 
-I possess skills in test case development, functional testing, regression testing, and automation. 
-My focus is on delivering high-quality products and driving process improvement. With an analytical mindset and strong problem-solving abilities, 
-I bring a proactive attitude, strong work ethic, and excellent teamwork skills to the table. I am open to new opportunities and collaborations.
+I'm Jose Aguilar, a passionate QA Engineer with expertise in automation and a software developer. I specialize in software testing and collaborate closely with development teams to ensure high-quality products. My day-to-day work involves crafting test cases, functional testing, regression testing, and automation. I am committed to delivering high-quality software and continuously improving processes.
 
-[¡ LOOK AT MY BLOG !](https://codewithghazi.com/blog)
+🛠️ Technologies & Tools
+Languages: Python, JavaScript, Ruby, Java
+Testing Tools: Cypress, Postman, Selenium, JMeter, TestRail
+🌱 Currently
+🔭 I'm currently working as a QA Engineer focused on automation.
+🤝 I love working collaboratively in a team environment.
+📫 Reach out to me
+Feel free to connect with me on LinkedIn!
 
-- 🔭 I am currently working as a QA Enginner automation
-- 🌱 Some of the tools I work with **PYTHON - JAVASCRIPT**
-- 👯 I love working in a team
-- 🤔 Technologies or skills most used in my day to day :<br>
-      - CYPRESS <br>
-      - POSTMAN <br>
-      - SELENIUM <br>
-      - JMETER <br>
-      - TESTRAIL <br>
-- 💬 **Software Testing**
-- 📫 How to reach me:
-  [SEE MY LINKEDIN](https://www.linkedin.com/in/jose-aguilar-ba3458230/)
+🚀 Goals
+I am always eager to learn and explore new technologies to enhance my skills and contribute more effectively to projects.
 
+Thanks for stopping by! 😄
