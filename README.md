@@ -4,6 +4,19 @@ Welcome to my GitHub profile!
 
 I'm Jose Aguilar, a passionate QA Engineer with expertise in automation and a software developer. I specialize in software testing and collaborate closely with development teams to ensure high-quality products. My day-to-day work involves crafting test cases, functional testing, regression testing, and automation. I am committed to delivering high-quality software and continuously improving processes.
 
+const jose = {
+  pronouns: "he" | "him",
+  code: ["Python", "JavaScript", "Ruby", "Java"],
+  tools: ["Cypress", "Postman", "Selenium", "JMeter", "TestRail"],
+  architecture: ["microservices", "event-driven"],
+  techCommunities: {
+    coorganizer: null,
+    speaker: null,
+    mentor: null
+  },
+  challenge: "I am always learning and exploring new technologies to improve my skills"
+}
+
 🛠️ Technologies & Tools
 Languages: Python, JavaScript, Ruby, Java
 Testing Tools: Cypress, Postman, Selenium, JMeter, TestRail
