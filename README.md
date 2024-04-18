@@ -13,56 +13,46 @@ function getProfile() {
     I specialize in software testing and collaborate closely with development teams to ensure high-quality products. \
     My day-to-day work involves crafting test cases, functional testing, regression testing, and automation. \
     I am committed to delivering high-quality software and continuously improving processes.",
-    
     technologiesAndTools: {
-      languages: ["Python", "JavaScript", "Ruby", "Java"],
-      testingTools: ["Cypress", "Postman", "Selenium", "JMeter", "TestRail"]
+      languages: ["Python", "TypeScript", "Java"],
+      testingTools: ["Playw", "Postman", "Selenium", "JMeter", "TestRail"]
     },
-    
-    currently: {
+   🚀 currently: { 
       role: "QA Engineer focused on automation",
       collaboration: "I love working collaboratively in a team environment"
     },
-    
-    contact: {
+   🚀 contact: {
       linkedIn: "Feel free to connect with me on LinkedIn!",
       email: "jose.aguilar@example.com",
       twitter: "@jose_aguilar"
     },
-    
-    projects: [
+   🚀 projects: [
+      projects: [
       {
         name: "Project A",
-        description: "Developed automated test suites using Cypress and Selenium."
-      },
-      {
-        name: "Project B",
-        description: "Implemented CI/CD pipelines for automated testing."
+        description: "Developed automated test suites using Cypress and Selenium.",
+        technologies: ["Python", "Cypress", "Selenium"],
+        completed: true
       }
     ],
-    
-    certifications: [
+   🚀 certifications: [
       "ISTQB Certified Tester",
       "Certified Selenium Professional"
     ],
-    
-    hobbies: [
+   🚀 hobbies: [
       "Reading",
       "Hiking",
       "Coding"
     ],
-    
-    goals: {
+   🚀 goals: {
       professional: "I am always eager to learn and explore new technologies to enhance my skills and contribute more effectively to projects.",
       personal: "I strive to maintain a healthy work-life balance and pursue personal growth."
     },
-    
-    socialLinks: {
+   😄 socialLinks:  {
       linkedIn: "https://www.linkedin.com/in/joseaguilar/",
       twitter: "https://twitter.com/jose_aguilar",
       github: "https://github.com/joseaguilar"
     },
-    
     greet: function() {
       console.log("Hello! Welcome to my profile.");
     }
