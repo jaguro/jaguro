@@ -10,18 +10,21 @@ function test() {
 ```
 I'm Jose Aguilar, a passionate QA Engineer with expertise in automation and a software developer. I specialize in software testing and collaborate closely with development teams to ensure high-quality products. My day-to-day work involves crafting test cases, functional testing, regression testing, and automation. I am committed to delivering high-quality software and continuously improving processes.
 
+```javascript
 const jose = {
-  pronouns: "he" | "him",
-  code: ["Python", "JavaScript", "Ruby", "Java"],
-  tools: ["Cypress", "Postman", "Selenium", "JMeter", "TestRail"],
-  architecture: ["microservices", "event-driven"],
-  techCommunities: {
-    coorganizer: null,
-    speaker: null,
-    mentor: null
+  technologiesAndTools: {
+    languages: ["Python", "JavaScript", "Ruby", "Java"],
+    testingTools: ["Cypress", "Postman", "Selenium", "JMeter", "TestRail"]
   },
-  challenge: "I am always learning and exploring new technologies to improve my skills"
-}
+  currently: {
+    role: "QA Engineer focused on automation",
+    collaboration: "I love working collaboratively in a team environment"
+  },
+  contact: {
+    linkedIn: "Feel free to connect with me on LinkedIn!"
+  },
+  goals: "I am always eager to learn and explore new technologies to enhance my skills and contribute more effectively to projects."
+};
 
 🛠️ Technologies & Tools
 Languages: Python, JavaScript, Ruby, Java
