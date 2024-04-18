@@ -5,6 +5,7 @@
 
 
 <h2>🛠️ Welcome to my GitHub profile! 🛠️</h2>
+
 ```javascript
 function test() {
   description: "I'm Jose Aguilar, a passionate QA Engineer with expertise in automation and a software developer. 
@@ -28,4 +29,5 @@ function test() {
   
   goals: "I am always eager to learn and explore new technologies to enhance my skills and contribute more effectively to projects."
 };
+```
 Thanks for stopping by! 😄
