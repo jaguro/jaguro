@@ -10,7 +10,7 @@ function test() {
 ```
 I'm Jose Aguilar, a passionate QA Engineer with expertise in automation and a software developer. I specialize in software testing and collaborate closely with development teams to ensure high-quality products. My day-to-day work involves crafting test cases, functional testing, regression testing, and automation. I am committed to delivering high-quality software and continuously improving processes.
 
-```javascript
+```python
 const jose = {
   technologiesAndTools: {
     languages: ["Python", "JavaScript", "Ruby", "Java"],
