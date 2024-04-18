@@ -1,5 +1,5 @@
 
-<h1>Hi there! <img src="1f44b.gif" width="30"</h1>
+<h1>Hi there! <img src="1f44b.gif" width="60"</h1>
 <img src="img_logo_github_repositori.png">
 Welcome to my GitHub profile!
 
