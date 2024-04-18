@@ -1,5 +1,5 @@
 
-![Banner Image](test-unitarios-en-javascript-con-jest-4f120f5e7124.png)
+![Banner Image](https://github.com/jaguro/jaguro/issues/2#issue-2250700103)
 ¡ HI EVERYONE AND WELCOME TO MY HOUSE !<br>
 
 I introduce myself, my name is Jose Aguilar. I am a **QA Engineer** with expertise in automation, as well as a **software developer**. 
