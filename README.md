@@ -8,21 +8,28 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
-I'm Jose Aguilar, a passionate QA Engineer with expertise in automation and a software developer. I specialize in software testing and collaborate closely with development teams to ensure high-quality products. My day-to-day work involves crafting test cases, functional testing, regression testing, and automation. I am committed to delivering high-quality software and continuously improving processes.
 
-```python
-const jose = {
+```javascript
+function test() {
+  description: "I'm Jose Aguilar, a passionate QA Engineer with expertise in automation and a software developer. 
+  I specialize in software testing and collaborate closely with development teams to ensure high-quality products.
+  My day-to-day work involves crafting test cases, functional testing, regression testing, and automation.
+  I am committed to delivering high-quality software and continuously improving processes.",
+  }
   technologiesAndTools: {
     languages: ["Python", "JavaScript", "Ruby", "Java"],
     testingTools: ["Cypress", "Postman", "Selenium", "JMeter", "TestRail"]
   },
+  
   currently: {
     role: "QA Engineer focused on automation",
     collaboration: "I love working collaboratively in a team environment"
   },
+  
   contact: {
     linkedIn: "Feel free to connect with me on LinkedIn!"
   },
+  
   goals: "I am always eager to learn and explore new technologies to enhance my skills and contribute more effectively to projects."
 };
 
