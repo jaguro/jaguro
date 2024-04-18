@@ -18,26 +18,26 @@ function getProfile() {
       testingTools: ["Playw", "Postman", "Selenium", "JMeter", "TestRail"]
     },
    🎯 currently: { 
-      role: "QA Engineer focused on automation",
+      role: "QA Engineer automation and devOps",
       collaboration: "I love working collaboratively in a team environment"
     },
     📞 contact: {
-      linkedIn: "Feel free to connect with me on LinkedIn!",
-      email: "jose.aguilar@example.com",
+      linkedIn: "https://www.linkedin.com/in/jose-aguilar-ba3458230",
+      email: "aguilurfi@gmail.com",
       twitter: "@jose_aguilar"
     },
    🚀 projects: [
       projects: [
       {
-        name: "Project A",
-        description: "Developed automated test suites using Cypress and Selenium.",
-        technologies: ["Python", "Cypress", "Selenium"],
+        name: "Project Selenium and Python",
+        description: "Developed automated test suites using python and Selenium.",
+        technologies: ["Python", "postman", "Selenium"],
         completed: true
       }
     ],
    📜 certifications: [
-      "ISTQB Certified Tester",
-      "Certified Selenium Professional"
+      "ISTQB Foundation Level",
+      "AWS Certified Professional"
     ],
    🚀 hobbies: [
       "Reading",
