@@ -1,5 +1,5 @@
 
-![Banner Image](https://github.com/jaguro/jaguro/issues/2#issue-2250700103.png)
+![Banner Image](img_logo_github_repositori.png)
 ¡ HI EVERYONE AND WELCOME TO MY HOUSE !<br>
 
 I introduce myself, my name is Jose Aguilar. I am a **QA Engineer** with expertise in automation, as well as a **software developer**. 
