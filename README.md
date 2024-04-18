@@ -17,11 +17,11 @@ function getProfile() {
       languages: ["Python", "TypeScript", "Java"],
       testingTools: ["Playw", "Postman", "Selenium", "JMeter", "TestRail"]
     },
-   🚀 currently: { 
+   🎯 currently: { 
       role: "QA Engineer focused on automation",
       collaboration: "I love working collaboratively in a team environment"
     },
-   🚀 contact: {
+    📞 contact: {
       linkedIn: "Feel free to connect with me on LinkedIn!",
       email: "jose.aguilar@example.com",
       twitter: "@jose_aguilar"
@@ -35,7 +35,7 @@ function getProfile() {
         completed: true
       }
     ],
-   🚀 certifications: [
+   📜 certifications: [
       "ISTQB Certified Tester",
       "Certified Selenium Professional"
     ],
