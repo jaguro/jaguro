@@ -1,6 +1,6 @@
 
 <h1>Hello! I`m Jose Aguilar! <img src="1f44b.gif" width="60"</h1>
-<h2>QA Enginner || Devops</h2>
+<h2>🚀 QA Enginner & Devops 🚀</h2>
 <img src="img_logo_github_repositori.png" width="50%">
 Welcome to my GitHub profile!
 
