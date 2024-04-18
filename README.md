@@ -3,7 +3,11 @@
 <h2>🚀 QA Enginner & Devops 🚀</h2>
 <img src="img_logo_github_repositori.png" height:200px; width:300px;>
 Welcome to my GitHub profile!
-
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 I'm Jose Aguilar, a passionate QA Engineer with expertise in automation and a software developer. I specialize in software testing and collaborate closely with development teams to ensure high-quality products. My day-to-day work involves crafting test cases, functional testing, regression testing, and automation. I am committed to delivering high-quality software and continuously improving processes.
 
 const jose = {
