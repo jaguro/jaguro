@@ -1,5 +1,5 @@
 
-<h1>Hi there! [GitHub Logo](img_logo_github_repositori.png)</h1>
+<h1>Hi there! <img src="img_logo_github_repositori.png" width="30"</h1>
 <img src="img_logo_github_repositori.png">
 Welcome to my GitHub profile!
 
