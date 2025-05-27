@@ -1,62 +1,35 @@
 
-<h1>Hello! I`m Jose Aguilar! <img src="1f44b.gif" width="60"</h1>
-<h2>🚀 QA Enginner & Devops 🚀</h2>
-<img src="img_logo_github_repositori.png" height:200px; width:300px;>
+<h1>Hi there! I`m Jose Aguilar! 🚀</h1>
+<h2 align="center">SDET Projects</h2>
 
+<p align="center">Al pasar el cursor, los proyectos se iluminan ✨</p>
 
-<h2>🛠️ Welcome to my GitHub profile! 🛠️</h2>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/tuusuario/project-one" target="_blank">
+        <img src="https://via.placeholder.com/400x200.png?text=Project+One"
+             alt="project-one"
+             style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s; cursor: pointer;"
+             onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'"
+             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)'"
+        />
+        <br /><b>🌟 project-one</b>
+      </a>
+      <p>Una aplicación que resuelve un problema común usando React y Node.js.<br><code>JavaScript</code></p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/tuusuario/project-two" target="_blank">
+        <img src="https://via.placeholder.com/400x200.png?text=Project+Two"
+             alt="project-two"
+             style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s; cursor: pointer;"
+             onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'"
+             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)'"
+        />
+        <br /><b>📱 project-two</b>
+      </a>
+      <p>App móvil para gestionar tareas diarias con notificaciones.<br><code>Flutter</code></p>
+    </td>
+  </tr>
+</table>
 
-```javascript
-function getProfile() {
-  return {
-    description: "I'm Jose Aguilar, a passionate QA Engineer with expertise in automation and a software developer. \
-    I specialize in software testing and collaborate closely with development teams to ensure high-quality products. \
-    My day-to-day work involves crafting test cases, functional testing, regression testing, and automation. \
-    I am committed to delivering high-quality software and continuously improving processes.",
-    technologiesAndTools: {
-      languages: ["Python", "TypeScript", "Java"],
-      testingTools: ["Playw", "Postman", "Selenium", "JMeter", "TestRail"]
-    },
-   🎯 currently: { 
-      role: "QA Engineer automation and devOps",
-      collaboration: "I love working collaboratively in a team environment"
-    },
-    📞 contact: {
-      linkedIn: "https://www.linkedin.com/in/jose-aguilar-ba3458230",
-      email: "aguilurfi@gmail.com",
-      twitter: "@jose_aguilar"
-    },
-   🚀 projects: [
-      projects: [
-      {
-        name: "Project Selenium and Python",
-        description: "Developed automated test suites using python and Selenium.",
-        technologies: ["Python", "postman", "Selenium"],
-        completed: true
-      }
-    ],
-   📜 certifications: [
-      "ISTQB Foundation Level",
-      "AWS Certified Professional"
-    ],
-   🚀 hobbies: [
-      "Reading",
-      "Hiking",
-      "Coding"
-    ],
-   🚀 goals: {
-      professional: "I am always eager to learn and explore new technologies to enhance my skills and contribute more effectively to projects.",
-      personal: "I strive to maintain a healthy work-life balance and pursue personal growth."
-    },
-   😄 socialLinks:  {
-      linkedIn: "https://www.linkedin.com/in/joseaguilar/",
-      twitter: "https://twitter.com/jose_aguilar",
-      github: "https://github.com/joseaguilar"
-    },
-    greet: function() {
-      console.log("Hello! Welcome to my profile.");
-    }
-  };
-}
-```
-Thanks for stopping by! 😄
