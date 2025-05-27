@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Jose Aguilar 🧪</h1>
+<h1 align="center">Hi there, I'm Jose Aguilar </h1>
 <p align="center">
   <a href="https://linkedin.com/in/tuusuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,13 +18,12 @@
   </a>
 </p>
 
-<h2 align="start"> SDET II Software Development Engineer in Test | Test Architecture  | Last Projects </h2>
+<h2 align="center"> SDET II Software Development Engineer in Test | Test Architecture  | Last Projects </h2>
 <p align="start">
-  This repository showcases a collection of advanced SDET projects that reflect modern test architecture, automation design patterns, and custom-built frameworks using cutting-edge technologies.  
+  This repository showcases a collection of advanced SDET projects that reflect modern test architecture, automation design patterns, and custom-built frameworks using cutting-edge technologies.
+  You'll also find content on best practices in quality engineering, Agile methodologies such as Scrum, and CI/CD integration strategies.
   <br><br>
-  You'll also find content on best practices in quality engineering, Agile methodologies such as Scrum, and CI/CD integration strategies.  
-  <br><br>
-  Beyond structure and theory, this space includes real-world challenges SDETs face daily — such as implementing TOTP-based authentication, API contract testing, data-driven validations, and resilient test orchestration at scale.
+  Beyond structure and theory, this space includes real-world challenges SDETs face daily such as implementing TOTP-based authentication, API contract testing, data-driven validations, and resilient test orchestration at scale.
 </p>
 
 
