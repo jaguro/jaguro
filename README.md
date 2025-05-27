@@ -1,6 +1,6 @@
 
-<h1>Hi there! I`m Jose Aguilar!</h1>
-<h2 align="start">🧪 Last Projects – SDET Architecture</h2>
+<h1> Hi there! I`m Jose Aguilar! </h1>
+<h2 align="start"> SDET II Software Development Engineer in Test | Test Architecture  | Last Projects </h2>
 <p align="start">
   Repositories showcasing modern testing architecture, design patterns for automation, custom-built frameworks, CI/CD strategies, and best practices in software quality engineering.
 </p>
