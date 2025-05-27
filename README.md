@@ -1,5 +1,23 @@
 
-<h1> Hi there! I`m Jose Aguilar! </h1>
+<h1 align="center">Hi there, I'm Jose Aguilar 🧪</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tuportafolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-43B581?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://hashnode.com/@tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+</p>
+
 <h2 align="start"> SDET II Software Development Engineer in Test | Test Architecture  | Last Projects </h2>
 <p align="start">
   This repository showcases a collection of advanced SDET projects that reflect modern test architecture, automation design patterns, and custom-built frameworks using cutting-edge technologies.  
