@@ -1,8 +1,9 @@
 
-<h1>Hi there! I`m Jose Aguilar! 🚀</h1>
-<h2 align="center">SDET Projects</h2>
-
-<p align="center">Al pasar el cursor, los proyectos se iluminan ✨</p>
+<h1>Hi there! I`m Jose Aguilar!</h1>
+<h2 align="start">🧪 Last Projects – SDET Architecture</h2>
+<p align="start">
+  Repositories showcasing modern testing architecture, design patterns for automation, custom-built frameworks, CI/CD strategies, and best practices in software quality engineering.
+</p>
 
 <table>
   <tr>
