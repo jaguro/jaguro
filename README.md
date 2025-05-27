@@ -1,5 +1,5 @@
+<h1 align="center"> Hi there, I'm Jose Aguilar </h1>
 
-<h1 align="center">Hi there, I'm Jose Aguilar </h1>
 <p align="center">
   <a href="https://linkedin.com/in/tuusuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,7 +18,11 @@
   </a>
 </p>
 
-<h2 align="center"> SDET II Software Development Engineer in Test | Test Architecture  | Last Projects </h2>
+---
+
+<h2 align="center"> SDET II | Software Development Engineer in Test </h2>
+<h3 align="center"> Test Architecture | Last Projects | Agile Engineering </h3>
+
 <p align="start">
   This repository showcases a collection of advanced SDET projects that reflect modern test architecture, automation design patterns, and custom-built frameworks using cutting-edge technologies.
   You'll also find content on best practices in quality engineering, Agile methodologies such as Scrum, and CI/CD integration strategies.
@@ -26,33 +30,61 @@
   Beyond structure and theory, this space includes real-world challenges SDETs face daily such as implementing TOTP-based authentication, API contract testing, data-driven validations, and resilient test orchestration at scale.
 </p>
 
+---
+
+## Last Projects
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/tuusuario/project-one" target="_blank">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+One"
-             alt="project-one"
-             style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s; cursor: pointer;"
-             onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'"
-             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)'"
-        />
-        <br /><b>🌟 project-one</b>
-      </a>
-      <p>Una aplicación que resuelve un problema común usando React y Node.js.<br><code>JavaScript</code></p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/tuusuario/project-two" target="_blank">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+Two"
-             alt="project-two"
-             style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s; cursor: pointer;"
-             onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'"
-             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)'"
-        />
-        <br /><b>📱 project-two</b>
-      </a>
-      <p>App móvil para gestionar tareas diarias con notificaciones.<br><code>Flutter</code></p>
-    </td>
+   <td align="center" width="50%">
+  <h3> smart-auth-totp </h3>
+  <img src="https://via.placeholder.com/600x300.png?text=TOTP+Auth" alt="smart-auth-totp" width="100%" style="border-radius: 8px;" />
+  <p>Secure authentication system with TOTP (Time-based One-Time Password) and automated validation flows.</p>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/API-4CAF50?style=flat-square" />
+    <img src="https://img.shields.io/badge/Auth-F44336?style=flat-square" />
+    <img src="https://img.shields.io/badge/E2E-9C27B0?style=flat-square" />
+    <img src="https://img.shields.io/badge/Playwright-45BA5A?style=flat-square&logo=playwright&logoColor=white" />
+  </p>
+</td>
+   <td align="center" width="50%">
+  <h3> smart-auth-totp </h3>
+  <img src="https://via.placeholder.com/600x300.png?text=TOTP+Auth" alt="smart-auth-totp" width="100%" style="border-radius: 8px;" />
+  <p>Secure authentication system with TOTP (Time-based One-Time Password) and automated validation flows.</p>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/API-4CAF50?style=flat-square" />
+    <img src="https://img.shields.io/badge/Auth-F44336?style=flat-square" />
+    <img src="https://img.shields.io/badge/E2E-9C27B0?style=flat-square" />
+    <img src="https://img.shields.io/badge/Playwright-45BA5A?style=flat-square&logo=playwright&logoColor=white" />
+  </p>
+</td>
+  </tr>
+   <tr>
+   <td align="center" width="50%">
+  <h3> smart-auth-totp </h3>
+  <img src="https://via.placeholder.com/600x300.png?text=TOTP+Auth" alt="smart-auth-totp" width="100%" style="border-radius: 8px;" />
+  <p>Secure authentication system with TOTP (Time-based One-Time Password) and automated validation flows.</p>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/API-4CAF50?style=flat-square" />
+    <img src="https://img.shields.io/badge/Auth-F44336?style=flat-square" />
+    <img src="https://img.shields.io/badge/E2E-9C27B0?style=flat-square" />
+    <img src="https://img.shields.io/badge/Playwright-45BA5A?style=flat-square&logo=playwright&logoColor=white" />
+  </p>
+</td>
+   <td align="center" width="50%">
+  <h3> smart-auth-totp </h3>
+  <img src="https://via.placeholder.com/600x300.png?text=TOTP+Auth" alt="smart-auth-totp" width="100%" style="border-radius: 8px;" />
+  <p>Secure authentication system with TOTP (Time-based One-Time Password) and automated validation flows.</p>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/API-4CAF50?style=flat-square" />
+    <img src="https://img.shields.io/badge/Auth-F44336?style=flat-square" />
+    <img src="https://img.shields.io/badge/E2E-9C27B0?style=flat-square" />
+    <img src="https://img.shields.io/badge/Playwright-45BA5A?style=flat-square&logo=playwright&logoColor=white" />
+  </p>
+</td>
   </tr>
 </table>
-
