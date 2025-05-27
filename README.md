@@ -2,8 +2,13 @@
 <h1> Hi there! I`m Jose Aguilar! </h1>
 <h2 align="start"> SDET II Software Development Engineer in Test | Test Architecture  | Last Projects </h2>
 <p align="start">
-  Repositories showcasing modern testing architecture, design patterns for automation, custom-built frameworks, CI/CD strategies, and best practices in software quality engineering.
+  This repository showcases a collection of advanced SDET projects that reflect modern test architecture, automation design patterns, and custom-built frameworks using cutting-edge technologies.  
+  <br><br>
+  You'll also find content on best practices in quality engineering, Agile methodologies such as Scrum, and CI/CD integration strategies.  
+  <br><br>
+  Beyond structure and theory, this space includes real-world challenges SDETs face daily — such as implementing TOTP-based authentication, API contract testing, data-driven validations, and resilient test orchestration at scale.
 </p>
+
 
 <table>
   <tr>
