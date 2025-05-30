@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/jose-aguilar-ba3458230/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href="[https://stackoverflow.com/users/tuusuario](https://stackoverflow.com/questions)" target="_blank">
+ <a href="https://stackoverflow.com" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
   <a href="https://codepen.io/tuusuario" target="_blank">
