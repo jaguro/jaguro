@@ -4,17 +4,17 @@
   <a href="https://www.linkedin.com/in/jose-aguilar-ba3458230/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://google.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-43B581?style=for-the-badge&logo=vercel&logoColor=white" />
+ <a href="https://stackoverflow.com/users/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
   <a href="https://codepen.io/tuusuario" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
-  <a href="https://twitter.com/tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="mailto:tuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://hashnode.com/@tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  <a href="https://facebook.com/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
@@ -88,3 +88,23 @@
 </td>
   </tr>
 </table>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaguro&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguro&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Nikki - Online Journal App](https://dev.to/tuusuario/nikki-online-journal-app)
+- [SOS Animals App. A project for the Clerk x Hashnode Hackathon](https://dev.to/tuusuario/sos-animals-app)
+- [2 ways to overcome deployment problems with React on Netlify](https://dev.to/tuusuario/deployment-problems-netlify)
+- [How to add styling to an active link in NextJS](https://dev.to/tuusuario/nextjs-active-link-style)
+- [Why to choose NextJS for future projects](https://dev.to/tuusuario/why-nextjs)
+<!-- BLOG-POST-LIST:END -->
+
