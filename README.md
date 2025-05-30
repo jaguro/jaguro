@@ -32,7 +32,7 @@
 
 ---
 
-<h2 align='center'> Last Projects </h2> 
+<h2 align='start'> Last Projects </h2> 
 
 <table>
   <tr>
