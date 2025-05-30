@@ -89,17 +89,9 @@
   </tr>
 </table>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaguro&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguro&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Nikki - Online Journal App](https://dev.to/tuusuario/nikki-online-journal-app)
 - [SOS Animals App. A project for the Clerk x Hashnode Hackathon](https://dev.to/tuusuario/sos-animals-app)
@@ -107,4 +99,13 @@
 - [How to add styling to an active link in NextJS](https://dev.to/tuusuario/nextjs-active-link-style)
 - [Why to choose NextJS for future projects](https://dev.to/tuusuario/why-nextjs)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaguro&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguro&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
