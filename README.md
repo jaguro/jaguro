@@ -21,7 +21,7 @@
 ---
 
 <h2 align="center"> SDET II | Software Development Engineer in Test </h2>
-<h3 align="center"> Test Architecture | Last Projects | Agile Engineering </h3>
+<h3 align="center"> Test Architecture | DevOps | Agile Engineering </h3>
 
 <p align="start">
   This repository showcases a collection of advanced SDET projects that reflect modern test architecture, automation design patterns, and custom-built frameworks using cutting-edge technologies.
