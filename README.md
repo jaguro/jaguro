@@ -1,111 +1,29 @@
-<h1 align="center"> Hi there, I'm Jose Aguilar </h1>
+<h1 align="center">Hi 👋, I'm Jose Aguilar</h1>
+<h3 align="center">I'm an SDET 2 with experience in test automation, robust framework development, and software quality assurance. I specialize in backend and frontend testing, CI/CD, and agile methodologies. Passionate about improving code quality and optimizing testing processes through modern tools and engineering best practices.</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jose-aguilar-ba3458230/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
- <a href="https://stackoverflow.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-  <a href="https://dev.to/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-  <a href="mailto:jaguro1995@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+- 🔭 I’m currently working on **ODILO SL**
+
+- 🌱 I’m currently learning **Advanced test automation frameworks, cloud-based testing tools, and performance testing strategies.**
+
+- 👯 I’m looking to collaborate on **Archiving and digital preservation**
+
+- 🤝 I’m looking for help with [https://greentesting.net/](https://greentesting.net/)
+
+- 👨‍💻 All of my projects are available at [https://greentesting.net/](https://greentesting.net/)
+
+- 📝 I regularly write articles on [https://greentesting.net/](https://greentesting.net/)
+
+- 💬 Ask me about **Plawright, Selenium, TypeScript & Python**
+
+- 📫 How to reach me **https://www.linkedin.com/in/jose-aguilar-ba3458230/**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/jose-aguilar-ba3458230/](https://www.linkedin.com/in/jose-aguilar-ba3458230/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/jose_aguilarromero_17250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jose_aguilarromero_17250" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jose-aguilar-ba3458230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jose-aguilar-ba3458230/" height="30" width="40" /></a>
 </p>
 
----
-
-<h2 align="center"> SDET II | Software Development Engineer in Test </h2>
-<h3 align="center"> Test Architecture | DevOps | Agile Engineering </h3>
-
-<p align="start">
-  This repository showcases a collection of advanced SDET projects that reflect modern test architecture, automation design patterns, and custom-built frameworks using cutting-edge technologies.
-  You'll also find content on best practices in quality engineering, Agile methodologies such as Scrum, and CI/CD integration strategies.
-  <br><br>
-  Beyond structure and theory, this space includes real-world challenges SDETs face daily such as implementing TOTP-based authentication, API contract testing, data-driven validations, and resilient test orchestration at scale.
-</p>
-
----
-
-<h2 align='start'> Last Projects </h2> 
-
-<table>
-  <tr>
-   <td align="center" width="50%">
-  <h3> smart-auth-totp </h3>
-  <img src="https://via.placeholder.com/600x300.png?text=TOTP+Auth" alt="smart-auth-totp" width="100%" style="border-radius: 8px;" />
-  <p>Secure authentication system with TOTP (Time-based One-Time Password) and automated validation flows.</p>
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/API-4CAF50?style=flat-square" />
-    <img src="https://img.shields.io/badge/Auth-F44336?style=flat-square" />
-    <img src="https://img.shields.io/badge/E2E-9C27B0?style=flat-square" />
-    <img src="https://img.shields.io/badge/Playwright-45BA5A?style=flat-square&logo=playwright&logoColor=white" />
-  </p>
-</td>
-   <td align="center" width="50%">
-  <h3> smart-auth-totp </h3>
-  <img src="https://via.placeholder.com/600x300.png?text=TOTP+Auth" alt="smart-auth-totp" width="100%" style="border-radius: 8px;" />
-  <p>Secure authentication system with TOTP (Time-based One-Time Password) and automated validation flows.</p>
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/API-4CAF50?style=flat-square" />
-    <img src="https://img.shields.io/badge/Auth-F44336?style=flat-square" />
-    <img src="https://img.shields.io/badge/E2E-9C27B0?style=flat-square" />
-    <img src="https://img.shields.io/badge/Playwright-45BA5A?style=flat-square&logo=playwright&logoColor=white" />
-  </p>
-</td>
-  </tr>
-   <tr>
-   <td align="center" width="50%">
-  <h3> smart-auth-totp </h3>
-  <img src="https://via.placeholder.com/600x300.png?text=TOTP+Auth" alt="smart-auth-totp" width="100%" style="border-radius: 8px;" />
-  <p>Secure authentication system with TOTP (Time-based One-Time Password) and automated validation flows.</p>
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/API-4CAF50?style=flat-square" />
-    <img src="https://img.shields.io/badge/Auth-F44336?style=flat-square" />
-    <img src="https://img.shields.io/badge/E2E-9C27B0?style=flat-square" />
-    <img src="https://img.shields.io/badge/Playwright-45BA5A?style=flat-square&logo=playwright&logoColor=white" />
-  </p>
-</td>
-   <td align="center" width="50%">
-  <h3> smart-auth-totp </h3>
-  <img src="https://via.placeholder.com/600x300.png?text=TOTP+Auth" alt="smart-auth-totp" width="100%" style="border-radius: 8px;" />
-  <p>Secure authentication system with TOTP (Time-based One-Time Password) and automated validation flows.</p>
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/API-4CAF50?style=flat-square" />
-    <img src="https://img.shields.io/badge/Auth-F44336?style=flat-square" />
-    <img src="https://img.shields.io/badge/E2E-9C27B0?style=flat-square" />
-    <img src="https://img.shields.io/badge/Playwright-45BA5A?style=flat-square&logo=playwright&logoColor=white" />
-  </p>
-</td>
-  </tr>
-</table>
-
----
-
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Nikki - Online Journal App](https://dev.to/tuusuario/nikki-online-journal-app)
-- [SOS Animals App. A project for the Clerk x Hashnode Hackathon](https://dev.to/tuusuario/sos-animals-app)
-- [2 ways to overcome deployment problems with React on Netlify](https://dev.to/tuusuario/deployment-problems-netlify)
-- [How to add styling to an active link in NextJS](https://dev.to/tuusuario/nextjs-active-link-style)
-- [Why to choose NextJS for future projects](https://dev.to/tuusuario/why-nextjs)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaguro&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguro&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
