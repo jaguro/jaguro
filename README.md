@@ -5,7 +5,7 @@
 <h1 align="start">Ey Testers! Welcome to my Lab 🧪</h1>
 
 <h3 align="start">
-Software QA Engineer | SDET-2 | Test Architect | Automation Specialist | API & AI Testing Enthusiast | Performance & Reliability Advocate | Quality Excellence 🚀
+Software QA Engineer | SDET-2 | Test Architect | Automation Specialist | API & AI Testing Enthusiast | Performance & Reliability Advocate | Quality Excellence
 </h3>
 
 <p align="start">
