@@ -8,7 +8,7 @@
 Software QA Engineer | SDET-2 | Test Architect | Automation Expert | API Testing | AI Testing Enthusiast | Performance | Quality Excellence 🚀
 </h3>
 
-<h3 align="start">
+<p align="start">
 A space dedicated to exploring <br/>
 🔹 Test architectures & design patterns <br/>
 🔹 AI-driven testing approaches <br/>
@@ -16,5 +16,5 @@ A space dedicated to exploring <br/>
 🔹 Reusable modules & scalable utilities <br/>
 🔹 API testing strategies & best practices <br/>
 🔹 Modern automation frameworks
-</h3>
+</p>
 
