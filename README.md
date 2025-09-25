@@ -1,4 +1,4 @@
-<h1 align="center">👋 Ey Testers! Welcome to my Lab</h1>
+<h1 align="start">👋 Ey Testers! Welcome to my Lab</h1>
 
 <h3 align="center">
 Software QA Engineer | SDET-2 | Test Architect | Automation Expert | API Testing | AI Testing Enthusiast | Performance | Quality Excellence 🚀
