@@ -2,10 +2,10 @@
   <img src="banner.png" alt="Banner Security Lab" width="100%" />
 </p>
 
-<h1 align="start">🔱 Welcome to ThorX0x Security Lab</h1>
+<h1 align="start">Welcome to ThorX0x Security Lab</h1>
 
 <h3 align="start">
-Quality & Security Engineering Lead | AppSec | Security Testing | SDET | Ethical Hacker in Progress
+Quality & Security Engineering Lead | AppSec | Security Testing | SDET | Ethical Hacker
 </h3>
 
 <p align="start">
@@ -13,17 +13,17 @@ This lab bridges the gap between Quality Engineering and Application Security. A
 </p>
 
 <ul>
-  <li><strong>🎯 Security Testing & Penetration Testing:</strong><br> OWASP Top 10 exploitation, vulnerability assessment, and security automation in CI/CD pipelines.</li>
+  <li><strong>Security Testing & Penetration Testing:</strong><br> OWASP Top 10 exploitation, vulnerability assessment, and security automation in CI/CD pipelines.</li>
   
-  <li><strong>🛡️ Secure Test Architectures:</strong><br> Building scalable test frameworks with security-first principles and Shift-Left Security practices.</li>
+  <li><strong>Secure Test Architectures:</strong><br> Building scalable test frameworks with security-first principles and Shift-Left Security practices.</li>
   
-  <li><strong>🔍 Automated Security Scanning:</strong><br> Integrating SAST/DAST tools, fuzzing, and continuous security testing into modern workflows.</li>
+  <li><strong>Automated Security Scanning:</strong><br> Integrating SAST/DAST tools, fuzzing, and continuous security testing into modern workflows.</li>
   
-  <li><strong>⚡ API Security Testing:</strong><br> Authentication bypass, authorization flaws, injection attacks, and secure API contract testing.</li>
+  <li><strong>API Security Testing:</strong><br> Authentication bypass, authorization flaws, injection attacks, and secure API contract testing.</li>
   
-  <li><strong>💻 Offensive Security Labs:</strong><br> HackTheBox, TryHackMe writeups, CTF challenges, and real-world exploitation scenarios.</li>
+  <li><strong>Offensive Security Labs:</strong><br> HackTheBox, TryHackMe writeups, CTF challenges, and real-world exploitation scenarios.</li>
   
-  <li><strong>🔧 Security Tools Arsenal:</strong><br> Burp Suite, OWASP ZAP, Nmap, Metasploit, and custom Python scripts for automated security testing.</li>
+  <li><strong>Security Tools Arsenal:</strong><br> Burp Suite, OWASP ZAP, Nmap, Metasploit, and custom Python scripts for automated security testing.</li>
 </ul>
 
 <p align="start">
